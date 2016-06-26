@@ -37,7 +37,7 @@ gulp.task('sass', function () {
 			.on("error", notify.onError(function (error) {
                 return "Error: " + error.message;
             })))
-		.pipe(gulp.dest(config.cssDistPath + '/css'));
+		.pipe(gulp.dest(config.cssDistPath));
 });
 
 /*----------  Define watch  ----------*/
