@@ -14,9 +14,9 @@ var config = {
 	jsPath: './assets/js',
 	cssPath: './assets/css',
 	moduleDir: './node_modules',
-	jsDistPath: './dist/js',
-	cssDistPath: './dist/css',
-	fontDistPath: './dist/fonts'
+	jsDistPath: './public/js',
+	cssDistPath: './public/css',
+	fontDistPath: './public/fonts'
 }
  
 /*----------  Define tasks  ----------*/
