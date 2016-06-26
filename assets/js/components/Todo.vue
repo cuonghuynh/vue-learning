@@ -1,5 +1,14 @@
 <style type="text/css">
-	
+	.task-close {
+		position: absolute;
+		top: 1em;
+		right: 1em;
+		cursor: pointer;
+	}
+
+	label {
+		color: blue;
+	}
 </style>
 
 
