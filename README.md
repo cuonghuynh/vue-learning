@@ -22,3 +22,7 @@ npm install
 ```shell
 gulp watch
 ```
+
+## How it works
+
+Now gulp watch on *vue_app.js* for Vue task and whole *scss* folder for sass task.
